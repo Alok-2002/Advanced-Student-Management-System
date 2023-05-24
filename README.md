@@ -2,6 +2,9 @@
 
 The Student Management System (SMS) is a GUI application created with Python and tkinter. It is designed to manage student data for a school or university. This version of the system utilizes a MySQL database to store and retrieve student information, such as names, addresses, contact information, and academic records.
 
+![Student Management System](https://github.com/Alok-2002/Advanced-Student-Management-System/assets/93814546/05f766d7-f2d2-4c2c-8ba3-56cd26acd642)
+
+
 ## Features
 
 - Add new students to the system
