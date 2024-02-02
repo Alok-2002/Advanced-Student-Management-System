@@ -17,10 +17,13 @@ The Student Management System (SMS) is a GUI application created with Python and
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`
-3. Create a MySQL database and import the `sms.sql` file to create the necessary tables.
-4. Modify the `config.ini` file to include your MySQL database credentials.
-5. Run the `student.py` file to launch the application.
+2. Install the required dependencies using
+   ```bash
+   pip install pip install pillow mysql-connector-python
+   ```
+4. Create a MySQL database and import the `sms.sql` file to create the necessary tables.
+5. Modify the `config.ini` file to include your MySQL database credentials.
+6. Run the `student.py` file to launch the application.
 
 ## Usage
 
